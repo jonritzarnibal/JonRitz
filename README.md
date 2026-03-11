@@ -29,4 +29,4 @@
 
 
 ## Projects
-- [![Play Snake Game](https://img.shields.io/badge/🐍%20Play%20Snake%20Game-00ff88?style=for-the-badge)](https://jonritzarnibal.github.io/snake-game/)
+- [![Play Snake Game](https://img.shields.io/badge/🐍%20Play%20Snake%20Game-00ff88?style=for-the-badge)](https://Jon1879.github.io/snake-game/)

@@ -23,8 +23,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)
 
 ## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=jonritzarnibal&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonritzarnibal&layout=compact&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api?username=jonritzarnibal&show_icons=true&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonritzarnibal&layout=compact&theme=transparent&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5)
+
 
 
 ## Projects

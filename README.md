@@ -23,10 +23,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)
 
 ## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api?username=jonritzarnibal&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonritzarnibal&layout=compact&theme=transparent)
 
 
 ## Projects
-- 🐍 [Snake Game][![Snake Game Preview](assets/snake-preview.png)](https://jonritzarnibal.github.io/snake-game/)
-[![Play Snake Game](https://img.shields.io/badge/🐍%20Play%20Snake%20Game-00ff88?style=for-the-badge)](https://jonritzarnibal.github.io/snake-game/)
+- [![Play Snake Game](https://img.shields.io/badge/🐍%20Play%20Snake%20Game-00ff88?style=for-the-badge)](https://jonritzarnibal.github.io/snake-game/)
